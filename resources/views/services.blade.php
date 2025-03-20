@@ -3,7 +3,7 @@
 @section('title','Services')
     
 @section('content')
-  <h1>Bienvenido a services</h1>
+  <h1>Bienvenido a servicios</h1>
   @component('_components.card')
     @slot('title', 'Services 1')
     @slot('content')
